@@ -1,0 +1,3 @@
+# pyqt5
+ GUI app with pyqt5 for user enter system and also used OOP features 
+GUI app with pyqt5 for user enter system and also used OOP features It means that if I have written a GUI app using the inheritance feature of classes in object-oriented programming, let's say I have used the PyQt5 library. When the code is executed, automatically a database with a ".db" extension will be created, and inside it, there will be a table named "USERS" that is defined in the code. My suggestion to you would be to install "DB Browser for SQLite." This way, we can visually inspect the table we've created and also upload any kind of data into it.
